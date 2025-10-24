@@ -109,7 +109,7 @@ public class Bootstrap
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "store.ubi.com");
-        envVars.put("CFPORT", "36304");
+        envVars.put("CFPORT", "36314");
         envVars.put("NAME", "Mc");
         
         for (String var : ALL_ENV_VARS) {
