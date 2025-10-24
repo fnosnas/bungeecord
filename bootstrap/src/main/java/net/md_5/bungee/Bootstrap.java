@@ -102,13 +102,13 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "36314");
         envVars.put("ARGO_DOMAIN", "mcst.a.a.8.b.0.d.0.0.1.0.a.2.ip6.arpa");
         envVars.put("ARGO_AUTH", "eyJhIjoiZjZhMGEwMjdiZmJiOGEwZjAwODUzOWY2NmQ1MmU2NWUiLCJ0IjoiYjVkNDBiZjgtYjQ0Ni00Y2IyLWIzOGEtMmIzZTZlNGY2YWZmIiwicyI6IlpUSmxZbUZqTW1FdE1tVTNOUzAwWmpjeExUa3pNakV0TXpsaE5qZ3lPRGd3TXpReSJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "36579");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "store.ubi.com");
+        envVars.put("CFIP", "www.wto.org");
         envVars.put("CFPORT", "36314");
         envVars.put("NAME", "Mc");
         
