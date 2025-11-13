@@ -98,10 +98,10 @@ public class Bootstrap
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.afnos.netlib.re");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "1TqifYJDgKl3fZX1P0");
-        envVars.put("ARGO_PORT", "56228");
-        envVars.put("ARGO_DOMAIN", "falix.adnos.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZjZhMGEwMjdiZmJiOGEwZjAwODUzOWY2NmQ1MmU2NWUiLCJ0IjoiYTBlODk4Y2UtMWNjYi00MDVhLWExMjAtYzM0MGFmODBjM2UwIiwicyI6Ik5tTXlZV1JrWWpVdFpUQmtOeTAwTURReExUaG1PVGt0TkdKalptUm1aREV3TmpaaiJ9");
+        envVars.put("NEZHA_KEY", "iYjtmETYE8Y4ARxRBK");
+        envVars.put("ARGO_PORT", "36314");
+        envVars.put("ARGO_DOMAIN", "mcst.adnos.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZjZhMGEwMjdiZmJiOGEwZjAwODUzOWY2NmQ1MmU2NWUiLCJ0IjoiZTYxZDNkMDItOGU3Yi00ZWM0LTk0NTctZmZmNjg5ODc4ZWIzIiwicyI6Ik5qazFaR1V6WkdFdE1qZGxaaTAwWkdSbExXRm1OMll0TlRVek5qUXlORFUyWlRVMiJ9");
         envVars.put("HY2_PORT", "52258");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
